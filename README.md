@@ -1,3 +1,6 @@
+### Prototyping New store Site selection Model for Beverage Business.
+
+
 ## Meet Fresh Business Background
 Meet Fresh is a dessert franchise chain store. The chain specializes in fresh Taiwanese desserts, including  taro balls and grass jelly.  So far, it has 35 stores in the US. Most of them are located in big cities like New York City,  Boston and Los Angeles. The major consumers are Asian, especially from China. Compared with other chain stores like Starbucks,  Meet fresh has great potential in expanding its business.
 
