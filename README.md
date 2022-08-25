@@ -1,3 +1,18 @@
+## Meet Fresh Business Background
+Meet Fresh is a dessert franchise chain store. The chain specializes in fresh Taiwanese desserts, including  taro balls and grass jelly.  So far, it has 35 stores in the US. Most of them are located in big cities like New York City,  Boston and Los Angeles. The major consumers are Asian, especially from China. Compared with other chain stores like Starbucks,  Meet fresh has great potential in expanding its business.
+
+## Project Background
+In order to facilitate the growth of the business, we provide a solution to this: a recommendation system on locations. This system is based on the zip code: each zip code will be given a score measuring the suitability of opening a store. However, Meet Fresh has only 26 stores in the US, which puts a big challenge on building the recommendation system. Given the similarity between the Meet fresh and the bubble tea stores, we generalize the recommendation system to the bubble tea store. In this project, we use the information of  geography,  population,  Big Malls, SuperMarket, Starbucks, McDonald and schools to train our recommendation system by using the techniques including linear regression, random forest, decision tree, neutral network, Xgboost and SVM. We will present the performance of various models and evaluate the best model.  
+
+
+
+
+
+
+
+
+
+
 ## Data source and references
 
 shopping mall locations:
